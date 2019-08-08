@@ -37,7 +37,8 @@
 <body>
 
   <header role="banner">
-    <nav class="navbar navbar-expand-lg  bg-dark">
+    <nav class="navbar navbar-expand-lg  bg-dark navbar-fixed-top">
+      <!-- Would like the navbar to be sticky at the top!! -->
       <div class="container-fluid">
         <a class="navbar-brand" href="#top">OYFA</a>
 
@@ -46,7 +47,7 @@
           <span class="navbar-toggler-icon"></span>
         </button>
 
-        <div class="collapse navbar-collapse sticky-top" id="navbarsExample05">
+        <div class="collapse navbar-collapse" id="navbarsExample05">
           <ul class="navbar-nav pl-md-5 ml-auto">
             <li class="nav-item">
               <a class="nav-link" href="#top">Home</a>
@@ -55,7 +56,7 @@
               <a class="nav-link" href="#about">About</a>
             </li>
             <li class="nav-item dropdown">
-              <a class="nav-link" href="services.html">Join</a>
+              <a class="nav-link" href="https://l.messenger.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2F1ec2dqZ7HNB0hx7r279x4uBbboDdS2GVtKRFW7HRxsLE&h=AT2nqSn5WsR_DI_e-j4QvmICpeMvwIGSMJyUgrz2p7AXaJ4mTGc68HUzJfMmqHc2WodyUUgr3jxBomlq3ypAuLP_fO2koOCbfPSMNTQRaGDve4ZowB5093_Dt5wc6EThPi12jTM9xmqBkyFVCUyn7hxPObk" target="_blank">Join</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link" href="services.html">Blog</a>
@@ -99,16 +100,20 @@
       <div class="row">
         <div class="col-lg-4 mb-2">
           <div class="service text-center" data-aos="fade-up" data-aos-delay="100">
-            <span class="icon fa fa-users mb-4 d-block"></span>
-            <h3>Join</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias id volume amet.</p>
+            <a href="https://docs.google.com/forms/d/1ec2dqZ7HNB0hx7r279x4uBbboDdS2GVtKRFW7HRxsLE/viewform?edit_requested=true" id="join-btn" target="_blank">
+              <span class="icon fa fa-users mb-4 d-block"></span>
+              <h3>Join</h3>
+              <p>Become an OYFAn! Click <strong>here</strong> to sign up for a big. UVA email required.</p>
+            </a>
           </div>
         </div>
         <div class="col-lg-4 mb-2">
           <div class="service text-center" data-aos="fade-up" data-aos-delay="200">
-            <span class="icon fa fa-money mb-4 d-block"></span>
-            <h3>Donate</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias id volume amet.</p>
+            <a href="" target="_blank" id="join-btn">
+              <span class="icon fa fa-money mb-4 d-block"></span>
+              <h3>Donate</h3>
+              <p>Want to support OYFAns succeed academically through the scholarship fund, culturally through Barrio, or recreationally through bonding experiences? Donate <strong>here</strong> </p>
+            </a>
           </div>
         </div>
         <div class="col-lg-4 mb-2">
