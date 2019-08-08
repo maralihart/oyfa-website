@@ -361,7 +361,7 @@ header {
 			background: $white;
 			&.active {
 				width: 12px;
-				background: none;
+				background: #7D97CE;
 			}
 		}
 	}
@@ -1052,7 +1052,7 @@ header {
 				display: inline-block;
 				width: 7px;
 				height: 7px;
-				background: #ccc;
+				background: white;
 				margin: 5px;
 				border-radius: 50%;
 			}
