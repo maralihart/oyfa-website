@@ -1,0 +1,19 @@
+#insta-title {
+    letter-spacing: .15em;
+    font-weight: 200;
+    font-family: "Cutive";
+    font-style: italic;
+    text-shadow: 2px 2px 3px black;
+}
+
+#insta a {
+    text-decoration: none;
+    text-shadow: -2px -2px 7px rgb(76, 92, 128);
+    width: 400px;
+    font-family: "Comfortaa", sans-serif;
+    box-shadow: 2px 2px 3px white;
+}
+
+.insta-button {
+    color: green;
+}
