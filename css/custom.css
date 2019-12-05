@@ -1,3 +1,7 @@
+:root {
+    --blue:#7D97CE;--yellow:#F6BC53;
+}
+
 #insta-title {
     letter-spacing: .15em;
     font-weight: 200;
@@ -8,10 +12,19 @@
 
 #insta a {
     text-decoration: none;
-    text-shadow: -2px -2px 7px rgb(76, 92, 128);
     width: 400px;
     font-family: "Comfortaa", sans-serif;
-    box-shadow: 2px 2px 3px white;
+    box-shadow: 2px 2px 3px var(--blue);
+    color: white!important;
+}
+
+#insta .btn {
+    background: var(--yellow);
+}
+
+#insta .btn:hover {
+    background: white;
+    color: var(--yellow)!important;
 }
 
 .insta-button {
