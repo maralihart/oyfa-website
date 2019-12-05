@@ -2,6 +2,11 @@
     --blue:#7D97CE;--yellow:#F6BC53;
 }
 
+#index-title {
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
 #insta-title {
     letter-spacing: .15em;
     font-weight: 200;
@@ -12,10 +17,11 @@
 
 #insta a {
     text-decoration: none;
-    width: 400px;
+    width: 300px;
     font-family: "Comfortaa", sans-serif;
     box-shadow: 2px 2px 3px var(--blue);
     color: white!important;
+    padding: 15px 0px;
 }
 
 #insta .btn {
