@@ -12,10 +12,18 @@ This is a rough draft for the website where we will deploy all changes before pu
 - [ ] Fill in officers.html
 - [ ] Fill in bios.html
 - [ ] Set up Barrio page
-- [ ] Embed blog browser into OYFA website
+- [ ] Set up Donate page
 
 ## Bug Fixes
 - [ ] Make navbar sticky
+- [ ] Add youtube icon into footer
+- [ ] Create join and donate buttons on index.html header
 - [ ] Change carousel color from purple to OYFA blue
-- [ ] Fix broken join button
 - [ ] Add links to Instagram page
+- [ ] Make blog's iframe load faster
+
+## Am I Done?
+Did you...
+- [ ] Check every link?
+- [ ] Resize every page to ensure responsive design?
+- [ ] Read over spelling?
