@@ -6,8 +6,9 @@ This website is designed to be not only a hub for all club members, but an inspi
 This is a rough draft for the website where we will deploy all changes before publishing it openly.
 
 ## To-Do
-**If working on these, please check it and put branch name next to task**  
-_- [x] Worked on this - mara_
+**If working on these, please check it and put branch name next to task. Example below**  
+- [x] Worked on this - mara
+
 - [ ] Fill in officers.html
 - [ ] Fill in bios.html
 - [ ] Set up Barrio page
