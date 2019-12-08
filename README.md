@@ -13,10 +13,10 @@ This is a rough draft for the website where we will deploy all changes before pu
 - [ ] Fill in bios.html
 - [ ] Set up Barrio page
 - [ ] Set up contact page
-- [ ] Add links to Instagram page
 - [ ] Embed blog browser into OYFA website
 
 ## Bug Fixes
 - [ ] Make navbar sticky
 - [ ] Change carousel color from purple to OYFA blue
 - [ ] Fix broken join button
+- [ ] Add links to Instagram page
