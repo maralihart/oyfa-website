@@ -16,7 +16,6 @@ This is a rough draft for the website where we will deploy all changes before pu
 
 ## Bug Fixes
 - [ ] Make navbar sticky
-- [ ] Add youtube icon into footer
 - [ ] Create join and donate buttons on index.html header
 - [ ] Change carousel color from purple to OYFA blue
 - [ ] Add links to Instagram page
