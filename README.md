@@ -12,7 +12,6 @@ This is a rough draft for the website where we will deploy all changes before pu
 - [ ] Fill in officers.html
 - [ ] Fill in bios.html
 - [ ] Set up Barrio page
-- [ ] Set up contact page
 - [ ] Embed blog browser into OYFA website
 
 ## Bug Fixes
