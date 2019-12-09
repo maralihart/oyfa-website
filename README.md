@@ -21,9 +21,12 @@ This is a rough draft for the website where we will deploy all changes before pu
 - [ ] Add links to Instagram page
 - [ ] Make blog's iframe load faster
 - [ ] Change officer.html links to fit color scheme (probably blue)
+- [ ] Change subtitle font to something sans-serif(?)
+- [ ] Make images load faster
 
 ## Am I Done?
 Did you...
 - [ ] Check every link?
 - [ ] Resize every page to ensure responsive design?
 - [ ] Read over spelling?
+- [ ] Speed test
