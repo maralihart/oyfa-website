@@ -23,6 +23,7 @@ This is a rough draft for the website where we will deploy all changes before pu
 - [ ] Change officer.html links to fit color scheme (probably blue)
 - [ ] Make images load faster
 - [ ] Fix barrio.html header photo
+- [ ] Change barrio event information to HTML, not an image
 
 ## Am I Done?
 Did you...
