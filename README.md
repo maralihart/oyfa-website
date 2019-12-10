@@ -20,7 +20,6 @@ This is a rough draft for the website where we will deploy all changes before pu
 - [ ] Change carousel color from purple to OYFA blue
 - [ ] Add links to Instagram page
 - [ ] Make blog's iframe load faster
-- [ ] Change officer.html links to fit color scheme (probably blue)
 - [ ] Make images load faster
 - [ ] Fix barrio.html header photo
 - [ ] Change barrio event information to HTML, not an image
