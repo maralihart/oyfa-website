@@ -9,9 +9,9 @@ This is a rough draft for the website where we will deploy all changes before pu
 **If working on these, please check it and put branch name next to task. Example below:**  
 - [x] Worked on this - mara
 
-- [ ] Fill in officers.html
+- [x] Fill in officers.html - nelly
 - [ ] Fill in bios.html
-- [ ] Set up Barrio page
+- [x] Set up Barrio page - mara
 - [ ] Set up Donate page
 
 ## Bug Fixes
@@ -22,6 +22,7 @@ This is a rough draft for the website where we will deploy all changes before pu
 - [ ] Make blog's iframe load faster
 - [ ] Change officer.html links to fit color scheme (probably blue)
 - [ ] Make images load faster
+- [ ] Fix barrio.html header photo
 
 ## Am I Done?
 Did you...
